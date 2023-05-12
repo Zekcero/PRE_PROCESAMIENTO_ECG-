@@ -1,8 +1,8 @@
 # PRE_PROCESAMIENTO_ECG-
 
-** Universidad Nacional de Ingeniería. **
+** Universidad Nacional de Ingeniería **
 
-	Proyecto para la clase de Sistemas y Señales.
+	Proyecto para la clase de Sistemas y Señales
 
 Proceso para la limpieza de una señal proveniente de un electrocardiograma mediante la utilización de métodos de preprocesamiento.
 
